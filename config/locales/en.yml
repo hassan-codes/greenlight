@@ -246,7 +246,7 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by University for Development Studies.
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -276,9 +276,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "UDS Web Conference is an online video conferencing platform for online video conference scheduling."
+    about: "UDS Web Conference is an online video conferencing platform deployed for online teaching and learning. It provides features for real-time sharing of video, audio, presentation slides, screen as well as multi-user whiteboard for interactivity"
     welcome: Welcome to UDS Web Conference.
-    video: Watch our tutorial on using Greenlight
+    video: Watch our tutorial on how to use UDS Web Conference.
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
