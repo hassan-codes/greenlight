@@ -18,7 +18,8 @@
     <div class="d-flex">
       <%= link_to (current_user ? home_page : root_path), class: "header-brand" do %>
         <% begin %>
-          <%= image_tag(logo_image, class: "header-brand-img", alt:"") %>
+          <!-- #<%= image_tag(logo_image, class: "header-brand-img", alt:"") %> -->
+          <a href="/"><image src="/home/app/assets/images" class="header-brand-img" alt="University for Development Studies emblem" ></a>
         <% rescue %>
           <%= t("administrator.site_settings.branding.invalid") %>
         <% end %>
